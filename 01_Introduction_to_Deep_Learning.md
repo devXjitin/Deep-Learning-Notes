@@ -9,7 +9,7 @@
 
 ---
 
-## Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
+# Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
 
 ![img1](./images/img1.jpg)
 
