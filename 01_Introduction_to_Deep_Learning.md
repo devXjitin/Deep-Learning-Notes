@@ -109,6 +109,8 @@ Finally, deep learning models are limited to the data they are trained on. They 
 
 # Overview of the Deep Learning Workflow
 
+![](images/img2.png)
+
 Deep learning is not just about building a neural network. It follows a clear step-by-step workflow that starts with understanding the problem and ends with using the model in the real world. Understanding this flow helps beginners see the complete picture before diving into mathematics and coding.
 
 The workflow begins with **problem understanding**. In this step, we clearly define what we want the model to do. For example, the task could be image classification, number prediction, text generation, or speech recognition. A clear problem definition helps decide the type of data, model, and evaluation method needed later.
