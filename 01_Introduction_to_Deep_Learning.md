@@ -45,8 +45,6 @@ Finally, deep learning is especially powerful for **unstructured data**. Text, i
 
 > **Deep learning is needed because complex problems involve large-scale data, unstructured inputs, automatic feature learning, and highly non-linear patterns. Deep learning can handle this complexity in ways traditional machine learning cannot.**
 
----
-
 ## Difference Between Traditional Machine Learning and Deep Learning
 
 Traditional Machine Learning and Deep Learning both learn from data, but the way they learn is very different.
@@ -64,8 +62,6 @@ There is also a difference in computational requirements. Traditional machine le
 Traditional machine learning performs best on structured data, such as tables with rows and columns. Deep learning performs best on unstructured data, including images, audio, video, and natural language text.
 
 > **Traditional machine learning is simpler, more interpretable, works well with smaller datasets, and relies on manual feature engineering. Deep learning is more powerful, data-intensive, computationally expensive, and automatically learns features, making it the preferred choice for complex real-world problems.**
-
----
 
 ## Real-World Applications of Deep Learning
 
@@ -86,8 +82,6 @@ In autonomous driving systems, deep learning is essential. Vehicles use cameras,
 Deep learning is also widely applied in finance. It is used for fraud detection, credit risk assessment, algorithmic trading, and customer behavior analysis. These models learn from transaction patterns and can identify unusual or suspicious activities in real time.
 
 > **Deep learning is used wherever data is large, patterns are complex, and manual rule creation is impractical. From smartphones and hospitals to cars and financial systems, deep learning has become a foundational technology behind modern intelligent applications.**
-
----
 
 ## Advantages and Limitations of Deep Learning
 
@@ -113,8 +107,6 @@ Finally, deep learning models are limited to the data they are trained on. They 
 
 > **Deep learning is powerful, accurate, and scalable, but it is also data-hungry, computationally expensive, and hard to interpret. Understanding both its advantages and limitations helps us decide when deep learning is the right choice and when simpler approaches may be better.**
 
----
-
 ## Overview of the Deep Learning Workflow
 
 Deep learning is not just about building a neural network. It follows a clear step-by-step workflow that starts with understanding the problem and ends with using the model in the real world. Understanding this flow helps beginners see the complete picture before diving into mathematics and coding.
@@ -138,5 +130,3 @@ When the model meets performance requirements, we proceed to **deployment**. The
 Even after deployment, the workflow continues. **Monitoring and maintenance** are necessary because real-world data changes over time. Models may need retraining, updates, or improvements to maintain accuracy and reliability.
 
 > **Deep learning is a complete pipeline, not just a neural network. Understanding this workflow helps learners study each component with clarity and build real-world deep learning systems confidently.**
-
----
