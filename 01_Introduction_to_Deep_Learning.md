@@ -85,6 +85,8 @@ Deep learning is also widely applied in finance. It is used for fraud detection,
 
 # Advantages and Limitations of Deep Learning
 
+![](images/img3.png)
+
 Deep learning has become very popular because it can solve problems that were once considered extremely difficult for machines. One of its biggest advantages is the ability to learn directly from raw data. There is no need to manually design features for images, audio, or text. The model automatically discovers what is important, which saves human effort and works well for complex data.
 
 Another major advantage of deep learning is its high accuracy. When large amounts of data are available, deep learning models often outperform traditional machine learning models and sometimes even human experts in tasks such as image recognition, speech recognition, and language translation. As more data is provided, deep learning models usually continue to improve.
