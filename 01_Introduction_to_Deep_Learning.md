@@ -25,8 +25,6 @@ Deep learning performs best when large amounts of data and high computational po
 
 > **AI is about making machines intelligent, Machine Learning is about learning from data, and Deep Learning is about learning complex patterns using deep neural networks.**
 
----
-
 ## Why Deep Learning Is Needed for Complex Problems
 
 Some problems are simple by nature. For example, predicting house prices using size and location, or calculating total sales from numbers. Such problems involve structured data and clear patterns. Traditional machine learning algorithms work well here because the relationships are easy to understand and model.
