@@ -27,6 +27,8 @@ Deep learning performs best when large amounts of data and high computational po
 
 # Why Deep Learning Is Needed for Complex Problems
 
+![](images/img4.png)
+
 Some problems are simple by nature. For example, predicting house prices using size and location, or calculating total sales from numbers. Such problems involve structured data and clear patterns. Traditional machine learning algorithms work well here because the relationships are easy to understand and model.
 
 However, many real-world problems are not simple. Data like images, speech, videos, and human language is highly complex and unstructured. An image is not just a picture; it is a grid of thousands or millions of pixel values. A sentence is not just a set of words; it contains meaning, grammar, context, and intent. Creating manual rules or features for such data quickly becomes impractical.
