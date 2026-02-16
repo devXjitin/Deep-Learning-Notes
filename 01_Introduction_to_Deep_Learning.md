@@ -1,4 +1,4 @@
-# Topics Covered
+# Introduction to Deep Learning
 
 - Artificial Intelligence, Machine Learning, and Deep Learning
 - Why deep learning is needed for complex problems
