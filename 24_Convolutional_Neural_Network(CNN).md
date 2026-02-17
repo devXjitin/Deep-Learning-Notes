@@ -1,4 +1,15 @@
-### Why CNNs are used for images
+# Convolutional Neural Networks (CNN)
+
+* Why CNNs are used for images
+* Convolution operation intuition
+* Filters and kernels
+* Feature maps
+* Pooling layers
+* CNN architecture flow
+
+---
+
+## Why CNNs are used for Images
 
 ![](img/Why%20choose%20CNNs%20for%20image%20processing_.png)
 
